@@ -11,7 +11,7 @@ The code will include instruction/script into how to download WM data with RAiDE
 
 [![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#) [![](https://img.shields.io/badge/Tensorflow-white?logo=tensorflow)](#) [![](https://img.shields.io/badge/numpy-white?logo=numpy)](#) [![](https://img.shields.io/badge/pandas-white?logo=pandas)](#) [![](https://img.shields.io/badge/xarray-white?logo=xarray)](#) [![](https://img.shields.io/badge/rasterio-white?logo=rasterio)](#)
 
-[View Jupyter Notebook](https://github.com/ngohikennyyue/Tropo_corrections/blob/e6deec0826662a61f9f6b40cf359e4655329e967/Model_performance.ipynb) </br>
+[View Jupyter Notebook](https://github.com/ngohikennyyue/Tropo_corrections/blob/e6deec0826662a61f9f6b40cf359e4655329e967/Model_performance.ipynb) <br />
 [Checkout project](https://github.com/ngohikennyyue/Tropo_corrections)
 
 ---
