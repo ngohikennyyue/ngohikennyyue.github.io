@@ -5,9 +5,11 @@ description: > # your text below (remove <br> elements if you don't need line br
   <br><br>
   Hi, I'm Kenny. 
   <br><br>
-  I'm Geospatial Analyst and Machine learning engineer from Hong Kong and currently located in Vancouver, BC. <br>
-  I'm interested in Remote Sensing and InSAR.<br>
-  My background is in GIS, geography, and geology. I'm trying to getting
+  I'm Geospatial Analyst and Machine learning engineer from Hong Kong and currently located in Vancouver, BC. </br>
+  I'm interested in Remote Sensing and InSAR.</br>
+  My background is in GIS, geography, and geology. 
+  
+  <br><br>
   <a href="https://www.linkedin.com/in/yuengohikenny/">View My LinkedIn Profile</a> 
   
 remote_theme: pages-themes/minimal@v0.2.0
